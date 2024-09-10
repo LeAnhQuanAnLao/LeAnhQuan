@@ -1,32 +1,31 @@
 # LeAnhQuan
 
-# 💫About Me :
-LeAnhQuan
-👋 Hi there! I'm LeAnhQuan!
+# 💫 About Me
 
-🌟 Full-Stack Developer with a passion for building innovative and user-friendly web applications.
+👋 Hi there! I'm **LeAnhQuan**!
 
-🔧 Technologies & Tools:
+🌟 **Full-Stack Developer** with a passion for building innovative and user-friendly web applications.
 
-Languages: C#, JavaScript, PHP
-Frameworks: .NET, React, Node.js
-Databases: SQL Server, MongoDB
-Tools: Git, Docker
-🚀 Current Focus:
+🔧 **Technologies & Tools:**
+- **Languages:** C#, JavaScript, PHP
+- **Frameworks:** .NET, React, Node.js
+- **Databases:** SQL Server, MongoDB
+- **Tools:** Git, Docker
 
-Developing scalable solutions and optimizing performance
-Exploring AI and machine learning to enhance user experiences
-💬 Ask me about:
+🚀 **Current Focus:**
+- Developing scalable solutions and optimizing performance
+- Exploring AI and machine learning to enhance user experiences
 
-Web development best practices
-Building modern, responsive UI/UX
-Efficient software architecture
-🌱 Currently Learning:
+💬 **Ask me about:**
+- Web development best practices
+- Building modern, responsive UI/UX
+- Efficient software architecture
 
-Website optimization
-Cutting-edge front-end frameworks
-📈 Fun Fact: 
+🌱 **Currently Learning:**
+- Website optimization
+- Cutting-edge front-end frameworks
 
+📈 **Fun Fact:**
 I love contributing to open-source projects and learning new tech stacks in my spare time.
 
 ## 🌐Socials
